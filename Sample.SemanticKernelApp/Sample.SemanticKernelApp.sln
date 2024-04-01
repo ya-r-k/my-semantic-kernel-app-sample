@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionnaireGenerator", "QuestionnaireGenerator\QuestionnaireGenerator.csproj", "{CEBA9CBB-9BB1-4E1A-8D82-FC5153C30862}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OllamaDriver.NET", "OllamaDriver.NET\OllamaDriver.NET.csproj", "{9514F4C9-131C-4B66-8451-C729739F0162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBA9CBB-9BB1-4E1A-8D82-FC5153C30862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBA9CBB-9BB1-4E1A-8D82-FC5153C30862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBA9CBB-9BB1-4E1A-8D82-FC5153C30862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBA9CBB-9BB1-4E1A-8D82-FC5153C30862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9514F4C9-131C-4B66-8451-C729739F0162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9514F4C9-131C-4B66-8451-C729739F0162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9514F4C9-131C-4B66-8451-C729739F0162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9514F4C9-131C-4B66-8451-C729739F0162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EE8D2F1-3D71-4B8D-A087-0F5966CF9A5C}
+	EndGlobalSection
+EndGlobal
